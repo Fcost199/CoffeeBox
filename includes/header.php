@@ -1,4 +1,12 @@
 <header>
-<!-- Conteúdo constante de cabeçalho aqui -->
-Eduardo 
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-6">
+                        
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-6">
+                        
+                    </div>
+                </div>
+            </div>
         </header>

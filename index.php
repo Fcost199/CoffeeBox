@@ -1,14 +1,14 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
     <head>
-        <?php include('includes/head-tags.php'); ?>
+        <?php include_once './includes/head-tags.php'; ?>
         <title>CoffeBox - Seu Café em Casa</title>
     </head>
     <body>
-        <?php include('includes/header.php'); ?>
+        <?php include_once './includes/header.php' ?>
         <main>
             <!-- Conteúdo aqui -->
         </main>
-        <?php include('include/footer.php'); ?>
+        <?php include_once './includes/footer.php' ?>
     </body>
 </html>

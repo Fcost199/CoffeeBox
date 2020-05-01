@@ -7,14 +7,8 @@
     </head>
     <body>
         <?php require('includes/header.php'); ?>
-        
         <main>
-            <!-- Banner -->
-            <ul class="banner">
-                <li>your content</li>
-                <li>your content</li>
-                <li>your content</li>
-            </ul>
+            <!-- Conteúdo aqui -->
         </main>
         <?php require('includes/footer.php'); ?>
         

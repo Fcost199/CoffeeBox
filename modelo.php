@@ -7,7 +7,7 @@
     </head>
     <body>
         <?php require('includes/header.php'); ?>
-        <main>
+        <main class="sua-classe">
             <!-- Conteúdo aqui -->
         </main>
         <?php require('includes/footer.php'); ?>

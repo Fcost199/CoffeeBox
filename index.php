@@ -11,9 +11,9 @@
         <main class="home">
             <!-- Banner -->
             <ul class="banner">
-                <li>your content</li>
-                <li>your content</li>
-                <li>your content</li>
+                <li><img src="assets/banner1.jpg"></li>
+                <li><img src="assets/banner2.jpg"></li>
+                <li><img src="assets/banner3.jpg"></li>
             </ul>
             
             <!-- Sobre -->
@@ -25,9 +25,48 @@
                 </div>
                 <div class="planos">
                     <h3>Nossos Planos</h3>
+                    <ul class="lista-de-planos">
+                        <li><img src="assets/basico.png" alt="" title=""></li>
+                        <li><img src="assets/bronze.png" alt="" title=""></li>
+                        <li><img src="assets/prata.png" alt="" title=""></li>
+                        <li><img src="assets/ouro.png" alt="" title=""></li>
+                        <li><img src="assets/infinity.png" alt="" title=""></li>
+                    </ul>
                 </div>
                 <div class="produtos">
                     <h3 class="text-right">Nossos Produtos</h3>
+                    <ul class="lista-de-produtos row">
+                        <li class="col-md-4 col-sm-6">
+                            <figure>
+                                <img src="" alt="" title="">
+                                <figcaption></figcaption>
+                            </figure>
+                        </li>
+                        <li class="col-md-4 col-sm-6">
+                            <figure>
+                                <img src="" alt="" title="">
+                                <figcaption></figcaption>
+                            </figure>
+                        </li>
+                        <li class="col-md-4 col-sm-6">
+                            <figure>
+                                <img src="" alt="" title="">
+                                <figcaption></figcaption>
+                            </figure>
+                        </li>
+                        <li class="col-md-4 col-sm-6">
+                            <figure>
+                                <img src="" alt="" title="">
+                                <figcaption></figcaption>
+                            </figure>
+                        </li>
+                        <li class="col-md-4 col-sm-6">
+                            <figure>
+                                <img src="" alt="" title="">
+                                <figcaption></figcaption>
+                            </figure>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </main>

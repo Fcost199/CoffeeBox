@@ -6,5 +6,10 @@
         <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         <script>
             //Sliders
-            $('.banner').slick();
+            $('.banner').slick({
+                dots: true,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 1,
+            });
         </script>

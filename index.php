@@ -38,32 +38,38 @@
                     <ul class="lista-de-produtos row">
                         <li class="col-md-4 col-sm-6">
                             <figure>
-                                <img src="" alt="" title="">
-                                <figcaption></figcaption>
+                                <img src="assets/produtomodelo.jpg" alt="" title="">
+                                <figcaption>Produto Exemplo A<span class="price">R$<span>99,00</span></span></figcaption>
                             </figure>
                         </li>
                         <li class="col-md-4 col-sm-6">
                             <figure>
-                                <img src="" alt="" title="">
-                                <figcaption></figcaption>
+                                <img src="assets/produtomodelo.jpg" alt="" title="">
+                                <figcaption>Produto Exemplo B<span class="price">R$<span>99,00</span></span></figcaption>
                             </figure>
                         </li>
                         <li class="col-md-4 col-sm-6">
                             <figure>
-                                <img src="" alt="" title="">
-                                <figcaption></figcaption>
+                                <img src="assets/produtomodelo.jpg" alt="" title="">
+                                <figcaption>Produto Exemplo C<span class="price">R$<span>99,00</span></span></figcaption>
                             </figure>
                         </li>
                         <li class="col-md-4 col-sm-6">
                             <figure>
-                                <img src="" alt="" title="">
-                                <figcaption></figcaption>
+                                <img src="assets/produtomodelo.jpg" alt="" title="">
+                                <figcaption>Produto Exemplo D<span class="price">R$<span>99,00</span></span></figcaption>
                             </figure>
                         </li>
                         <li class="col-md-4 col-sm-6">
                             <figure>
-                                <img src="" alt="" title="">
-                                <figcaption></figcaption>
+                                <img src="assets/produtomodelo.jpg" alt="" title="">
+                                <figcaption>Produto Exemplo E<span class="price">R$<span>99,00</span></span></figcaption>
+                            </figure>
+                        </li>
+                        <li class="col-md-4 col-sm-6">
+                            <figure>
+                                <img src="assets/produtomodelo.jpg" alt="" title="">
+                                <figcaption>Produto Exemplo E<span class="price">R$<span>99,00</span></span></figcaption>
                             </figure>
                         </li>
                     </ul>

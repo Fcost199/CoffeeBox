@@ -3,7 +3,7 @@
     <head>
         <?php require('includes/head-tags.php'); ?>
         
-        <title>CoffeBox - Seu Café em Casa</title>
+        <title>CoffeBox - Seu Café em Casa do Fernando</title>
     </head>
     <body>
         <?php require('includes/header.php'); ?>

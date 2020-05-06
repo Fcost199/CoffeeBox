@@ -28,7 +28,15 @@ li{font-size: 1.1em;}
         text-align-last: left;
     }
 }
-
+footer{
+    background-color: #2f2f2f;
+    padding: 45px 0;
+}
+footer *{color: #fff;}
+footer img{max-width: 200px;}
+footer .cards{
+    font-size: 2em;
+}
 /*HOME*/
 .home h2{
     margin: 25vh auto 8vh;
@@ -85,7 +93,4 @@ li{font-size: 1.1em;}
     display: inline-block;
     margin-top: -8px;
 }
-.home .price span{
-    font-size: 1.4em;
-    
-}
+.home .price span{font-size: 1.4em;}

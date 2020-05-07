@@ -2,10 +2,10 @@
     margin: 0;
     background-color: #ffb500db;
     width: 100vw;
-    height: 85vh;
+    height: 90vh;
     position: fixed;
     left: 0;
-    top: 15%;
+    top: 85px;
     z-index: 1;
     overflow: hidden;
 }

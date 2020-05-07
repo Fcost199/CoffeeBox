@@ -93,6 +93,8 @@
                 </div>
 =======
 
+=======
+>>>>>>> 44d975f7f526c7bdf2fec458c60430c54a011661
 <head>
     <?php require('includes/head-tags.php'); ?>
 

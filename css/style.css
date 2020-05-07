@@ -109,7 +109,7 @@ footer .cards{
 
 .home .price{
     float: right;
-    display: inline-block;
+    /* display: inline-block; */
     margin-top: -8px;
 }
 .home .price span{font-size: 1.4em;}

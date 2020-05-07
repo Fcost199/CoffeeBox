@@ -26,20 +26,20 @@
                 <div class="sobre">
                     <h2 class="text-center">A CoffeeBox</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae ipsum et ipsum luctus tempus nec ac arcu. Donec hendrerit eu mauris non finibus. Phasellus nec auctor est, eu lacinia nisi. Donec porttitor consequat metus id pellentesque. Sed congue, metus sit amet porttitor lacinia, lectus ligula pharetra lacus, vitae viverra nunc mauris vel nunc. Ut interdum sapien lacinia leo dapibus vehicula. Nam malesuada vulputate nunc, vitae semper nunc cursus quis. Vestibulum elementum, nibh vel sodales pellentesque, justo mauris tincidunt augue, at condimentum est orci et tellus. Integer rutrum faucibus quam, vel fermentum purus dignissim ut. Fusce convallis nulla sit amet sapien interdum faucibus. Phasellus congue eros vitae massa dictum condimentum. Nam ultricies lorem massa, at volutpat est consequat ac. Sed vel fermentum elit. Nullam malesuada pharetra risus, in condimentum sapien dignissim a.</p>
-                    <p class="text-right"><a href="#">Saiba mais sobre a CoffeeBox</a></p>
+                    <p class="text-right"><a href="sobre.php">Saiba mais sobre a CoffeeBox</a></p>
                 </div>
                 <div class="planos">
                     <h3>Nossos Planos</h3>
                     
                         <ul class="lista-de-planos">
-                            <li><img src="assets/basico.png" alt="" title=""></li>
-                            <li><img src="assets/bronze.png" alt="" title=""></li>
-                            <li><img src="assets/prata.png" alt="" title=""></li>
-                            <li><img src="assets/ouro.png" alt="" title=""></li>
-                            <li><img src="assets/infinity.png" alt="" title=""></li>
+                            <li><a href="planos.php"><img src="assets/basico.png" alt="" title=""></a></li>
+                            <li><a href="planos.php"><img src="assets/bronze.png" alt="" title=""></a></li>
+                            <li><a href="planos.php"><img src="assets/prata.png" alt="" title=""></a></li>
+                            <li><a href="planos.php"><img src="assets/ouro.png" alt="" title=""></a></li>
+                            <li><a href="planos.php"><img src="assets/infinity.png" alt="" title=""></a></li>
                         </ul>
                     
-                    <h4 class="text-center"><a href="#">CONHEÇA OS PLANOS</a></h4>
+                    <h4 class="text-center"><a href="planos.php">CONHEÇA OS PLANOS</a></h4>
                     
                 </div>
                 <div class="produtos">

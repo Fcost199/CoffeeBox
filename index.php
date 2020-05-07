@@ -10,11 +10,16 @@
         
         <main class="home">
             <!-- Banner -->
-            <ul class="banner">
-                <li><img src="assets/banner1.jpg"></li>
-                <li><img src="assets/banner2.jpg"></li>
-                <li><img src="assets/banner3.jpg"></li>
-            </ul>
+            <div class="container-fluid w-100 p-0">
+                <div style="overflow: hidden">
+                    <ul class="banner">
+                        <li><img src="assets/banner1.jpg"></li>
+                        <li><img src="assets/banner2.jpg"></li>
+                        <li><img src="assets/banner3.jpg"></li>
+                    </ul>
+                </div>
+            </div>
+            
             
             <!-- Sobre -->
             <div class="container">

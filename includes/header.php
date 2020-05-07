@@ -18,7 +18,7 @@
                                 <a class="nav-link" href="#">Planos</a>
                         </li>
                         <li class="nav-item">
-                                <a class="nav-link" href="#">Sobre</a>
+                                <a class="nav-link" href="sobre.php">Sobre</a>
                         </li>
                         <li class="nav-item">
                                 <a class="nav-link" href="#">Login</a>

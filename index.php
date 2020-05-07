@@ -25,13 +25,17 @@
                 </div>
                 <div class="planos">
                     <h3>Nossos Planos</h3>
-                    <ul class="lista-de-planos">
-                        <li><img src="assets/basico.png" alt="" title=""></li>
-                        <li><img src="assets/bronze.png" alt="" title=""></li>
-                        <li><img src="assets/prata.png" alt="" title=""></li>
-                        <li><img src="assets/ouro.png" alt="" title=""></li>
-                        <li><img src="assets/infinity.png" alt="" title=""></li>
-                    </ul>
+                    
+                        <ul class="lista-de-planos">
+                            <li><img src="assets/basico.png" alt="" title=""></li>
+                            <li><img src="assets/bronze.png" alt="" title=""></li>
+                            <li><img src="assets/prata.png" alt="" title=""></li>
+                            <li><img src="assets/ouro.png" alt="" title=""></li>
+                            <li><img src="assets/infinity.png" alt="" title=""></li>
+                        </ul>
+                    
+                    <h4 class="text-center"><a href="#">CONHEÇA OS PLANOS</a></h4>
+                    
                 </div>
                 <div class="produtos">
                     <h3 class="text-right">Nossos Produtos</h3>
@@ -73,6 +77,7 @@
                             </figure>
                         </li>
                     </ul>
+                    <p class="text-right"><a href="#">Veja todos os nossos produtos</a></p>
                 </div>
             </div>
         </main>

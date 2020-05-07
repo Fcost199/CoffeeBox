@@ -6,3 +6,4 @@
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/slick-theme.css">
         <link rel="stylesheet" href="css/style.css">
+        <link href="css/all.css" rel="stylesheet">

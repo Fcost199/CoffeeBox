@@ -1,0 +1,32 @@
+.menu {
+    margin: 0;
+    background-color: #ffb500db;
+    width: 100vw;
+    height: 85vh;
+    position: fixed;
+    left: 0;
+    top: 15%;
+    z-index: 1;
+    overflow: hidden;
+}
+.itensMenu {
+    display: none;
+}
+.menu li {
+    text-align: center;
+    list-style: none;
+    padding: 5px;
+    margin-top: 5%;
+    margin-bottom: 0.5%;
+    
+}
+.menu li a {
+    color: #ffffffdb;
+    text-shadow: 0 1px 5px #0a0a05e8;
+}
+
+@media( min-width: 989px ) {
+    .itensMenu {
+        display: flex;
+    }
+}

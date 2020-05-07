@@ -28,7 +28,16 @@ li{font-size: 1.1em;}
         text-align-last: left;
     }
 }
-
+footer{
+    background-color: #2f2f2f;
+    padding: 45px 0;
+    margin-top: 25vh;
+}
+footer *{color: #fff;}
+footer img{max-width: 200px;}
+footer .cards{
+    font-size: 2em;
+}
 /*HOME*/
 .home h2{
     margin: 25vh auto 8vh;
@@ -51,15 +60,33 @@ li{font-size: 1.1em;}
 }
 .home .lista-de-planos li{
     display: inline-block;
-    margin: 0 -50px;
     max-width: 19%;
-    transform: perspective(400px) rotateY(45deg);
-    transition: transform ease .3s, margin ease .3s;
 }
-.home .lista-de-planos li:hover{
-    transform: perspective(400px) rotateY(0) scale(1.3);
-    margin: 0 75px 0 50px;
+
+@media only screen and (min-width: 1280px){
+    .home .lista-de-planos li{
+        transform: perspective(400px) rotateY(45deg);
+        transition: transform ease .3s, margin ease .3s;
+        margin: 0 -50px;
+    }
+    .home .lista-de-planos li:hover{
+        transform: perspective(400px) rotateY(0) scale(1.3);
+        margin: 0 75px 0 50px;
+    }
 }
+
+@media only screen and (max-width: 680px){
+    .home .lista-de-planos li{max-width: 33%;}
+}
+
+.home .planos h4{
+    margin: 15vh auto 20vh;
+    font-weight: 600;
+}
+.home .planos h4 a{
+    color: saddlebrown;
+}
+
 .home .lista-de-planos li img{
     display: block;
     max-width: 100%;
@@ -82,10 +109,7 @@ li{font-size: 1.1em;}
 
 .home .price{
     float: right;
-    display: inline-block;
+    /* display: inline-block; */
     margin-top: -8px;
 }
-.home .price span{
-    font-size: 1.4em;
-    
-}
+.home .price span{font-size: 1.4em;}

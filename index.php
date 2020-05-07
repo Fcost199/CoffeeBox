@@ -41,43 +41,55 @@
                     <h3 class="text-right">Nossos Produtos</h3>
                     <ul class="lista-de-produtos row">
                         <li class="col-md-4 col-sm-6">
-                            <figure>
-                                <img src="assets/produtomodelo.jpg" alt="" title="">
-                                <figcaption>Produto Exemplo A<span class="price">R$<span>99,00</span></span></figcaption>
-                            </figure>
+                            <a href="produto.php">
+                                <figure>
+                                    <img src="assets/produtomodelo.jpg" alt="" title="">
+                                    <figcaption>Produto Exemplo A<span class="price">R$<span>99,00</span></span></figcaption>
+                                </figure>
+                            </a>
                         </li>
                         <li class="col-md-4 col-sm-6">
-                            <figure>
-                                <img src="assets/produtomodelo.jpg" alt="" title="">
-                                <figcaption>Produto Exemplo B<span class="price">R$<span>99,00</span></span></figcaption>
-                            </figure>
+                            <a href="produto.php">
+                                <figure>
+                                    <img src="assets/produtomodelo.jpg" alt="" title="">
+                                    <figcaption>Produto Exemplo B<span class="price">R$<span>99,00</span></span></figcaption>
+                                </figure>
+                            </a>
                         </li>
                         <li class="col-md-4 col-sm-6">
-                            <figure>
-                                <img src="assets/produtomodelo.jpg" alt="" title="">
-                                <figcaption>Produto Exemplo C<span class="price">R$<span>99,00</span></span></figcaption>
-                            </figure>
+                            <a href="produto.php">
+                                <figure>
+                                    <img src="assets/produtomodelo.jpg" alt="" title="">
+                                    <figcaption>Produto Exemplo C<span class="price">R$<span>99,00</span></span></figcaption>
+                                </figure>
+                            </a>
                         </li>
                         <li class="col-md-4 col-sm-6">
-                            <figure>
-                                <img src="assets/produtomodelo.jpg" alt="" title="">
-                                <figcaption>Produto Exemplo D<span class="price">R$<span>99,00</span></span></figcaption>
-                            </figure>
+                            <a href="produto.php">
+                                <figure>
+                                    <img src="assets/produtomodelo.jpg" alt="" title="">
+                                    <figcaption>Produto Exemplo D<span class="price">R$<span>99,00</span></span></figcaption>
+                                </figure>
+                            </a>
                         </li>
                         <li class="col-md-4 col-sm-6">
-                            <figure>
-                                <img src="assets/produtomodelo.jpg" alt="" title="">
-                                <figcaption>Produto Exemplo E<span class="price">R$<span>99,00</span></span></figcaption>
-                            </figure>
+                            <a href="produto.php">
+                                <figure>
+                                    <img src="assets/produtomodelo.jpg" alt="" title="">
+                                    <figcaption>Produto Exemplo E<span class="price">R$<span>99,00</span></span></figcaption>
+                                </figure>
+                            </a>
                         </li>
                         <li class="col-md-4 col-sm-6">
-                            <figure>
-                                <img src="assets/produtomodelo.jpg" alt="" title="">
-                                <figcaption>Produto Exemplo E<span class="price">R$<span>99,00</span></span></figcaption>
-                            </figure>
+                            <a href="produto.php">
+                                <figure>
+                                    <img src="assets/produtomodelo.jpg" alt="" title="">
+                                    <figcaption>Produto Exemplo E<span class="price">R$<span>99,00</span></span></figcaption>
+                                </figure>
+                            </a>
                         </li>
                     </ul>
-                    <p class="text-right"><a href="#">Veja todos os nossos produtos</a></p>
+                    <p class="text-right"><a href="shop.php">Veja todos os nossos produtos</a></p>
                 </div>
             </div>
         </main>

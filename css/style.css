@@ -108,7 +108,6 @@ img{max-width: 100%;}
     margin-top: 25px;
 }
 
-
 .home .price,
 .produtos .price{
     float: right;
@@ -121,6 +120,21 @@ img{max-width: 100%;}
 /*perfil*/
 .perfil img{
     max-width: 100%;
+}
+
+.perfil .lateral{
+    border: 2px solid #f4f4f4;
+    padding: 15px;
+    border-radius: 4px;
+}
+.perfil .lateral ul{padding: 0;}
+.perfil .maindata{
+    border: 2px solid #f4f4f4;
+    padding: 15px;
+    border-radius: 4px;
+}
+.perfil .maindata h1{
+    font-size: 2em;
 }
 
 .shop figure{
@@ -138,3 +152,34 @@ img{max-width: 100%;}
 
 .produtos a{color: inherit; text-decoration: none;}
 .planos table td{text-align: center;}
+.dashboard{
+    margin-bottom: -25vh;
+}
+.dashboard .conteudo{
+    background-color: #FCFCFC;
+}
+.dashboard .menulateral li a,
+.perfil .lateral li a{
+    color: black;
+}
+.dashboard .menulateral li,
+.perfil .lateral li{
+    list-style: none;
+}
+.dashboard .menulateral ul{
+    position: sticky;
+    top: 25px;
+}
+.dashboard .menulateral li:before,
+.perfil .lateral li:before{
+    content: '>';
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 2px;
+    transition: margin ease-in-out .3s;
+}
+.dashboard .menulateral li:hover:before,
+.perfil .lateral li:before{
+    margin-right: 2px;
+    margin-left: 10px;
+}

@@ -1,7 +1,7 @@
 <?php
     session_start();
-    if((isset($_SESSION['login']) == true) and (isset($_SESSION['senha']) == true)){
-        header('location:perfil.php');
+    if((isset($_SESSION['login']) == true) and (isset($_SESSION['senha']) == true) and (isset($_SESSION['internal']) == true)){
+        header('location:dashboard.php');
     }else{
         session_destroy();
     }
@@ -19,7 +19,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 mx-auto">
-                        <form method="post" action="ope-client.php">
+                        <form method="post" action="ope-funcionario.php">
                             <?php 
                                 if(isset($_GET['error'])){
                                     ?>
@@ -38,11 +38,9 @@
                                 <input name="senha" type="password" class="form-control" id="password">
                             </div>
                             <div class="row" style="margin-bottom: 20px">
-                                <div class="col-6 text-left">
-                                    <a href="novo-cliente.php" class="">Criar conta</a>
-                                </div>
+                                <div class="col-6 text-right"></div>
                                 <div class="col-6 text-right">
-                                    <a href="reset-senha.php" class="">Esqueceu sua senha?</a>
+                                    <a href="reset-senha.php" class="">Esqueceu sua senha ?</a>
                                 </div>
                             </div>
                             <button type="submit" class="btn btn-dark w-100">Enviar</button>

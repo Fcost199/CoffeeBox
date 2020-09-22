@@ -11,35 +11,35 @@
             <li>
                 <a  href="sobre.php"><i class="fas fa-coffee"></i> Sobre</a>
             </li>
+<!--
             <li>
                 <a  href="shop.php"><i class="fas fa-shopping-cart"></i> Produtos</a>
             </li>
+-->
             <li>
                 <a  href="planos.php"><i class="fas fa-box-open"></i> Planos</a>
-            </li>
+            </li>   
             <li>
                 <a  href="login.php"><i class="fas fa-sign-in-alt"></i> Login</a>
             </li>
-            <li>
-                <a class="" href="carrinho.php"><i class="fas fa-shopping-cart"></i> Carrinho</a>
-            </li>
+            
         </ul>
     </div>
     <ul class="itensMenu navbar-nav">
         <li class="nav-item">
-            <a class="nav-link" href="sobre.php"><i class="fas fa-coffee"></i> Sobre</a>
+            <a class="nav-link" href="sobre.php">Sobre</a>
+        </li>
+<!--
+        <li class="nav-item">
+            <a class="nav-link" href="shop.php">Produtos</a>
+        </li>
+-->
+        <li class="nav-item">
+            <a class="nav-link" href="planos.php">Planos</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="shop.php"><i class="fas fa-shopping-cart"></i> Produtos</a>
+            <a class="nav-link" href="login.php">Login</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="planos.php"><i class="fas fa-box-open"></i> Planos</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="login.php"><i class="fas fa-sign-in-alt"></i> Login</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="carrinho.php"><i class="fas fa-shopping-cart"></i> Carrinho</a>
-        </li>
+        
     </ul>
 </nav>

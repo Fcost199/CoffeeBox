@@ -39,9 +39,11 @@
                             <li><a href="planos.php"><img src="assets/infinity.png" alt="" title=""></a></li>
                         </ul>
                     
-                    <h4 class="text-center"><a href="planos.php">CONHEÇA OS PLANOS</a></h4>
+                    <h4 class="text-center"><a href="planos.php">Saiba mais sobre os planos</a></h4>
                     
                 </div>
+                <?php /* ?>
+                
                 <div class="produtos">
                     <h3 class="text-right">Nossos Produtos</h3>
                     <ul class="lista-de-produtos row">
@@ -96,6 +98,7 @@
                     </ul>
                     <p class="text-right"><a href="shop.php">Veja todos os nossos produtos</a></p>
                 </div>
+                <?php */ ?>
             </div>
 
         </main>
